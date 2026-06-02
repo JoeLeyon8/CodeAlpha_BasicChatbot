@@ -1,0 +1,1 @@
+A simple Python chatbot that responds to basic user inputs using conditional statements and loops. Designed for beginners to understand chatbot logic, user interaction, and Python programming fundamentals.
